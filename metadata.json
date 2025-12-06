@@ -1,0 +1,5 @@
+{
+  "name": "BAFS Classify Accounts for FS Quiz",
+  "description": "An interactive quiz platform for HKDSE accounting students to master the classification of ledger accounts into Income Statement and Financial Position categories.",
+  "requestFramePermissions": []
+}
