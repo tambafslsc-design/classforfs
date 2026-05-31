@@ -363,7 +363,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="py-6 text-center text-slate-400 text-sm">
-        <p>© 2025 HKDSE Accounting Helper</p>
+        <p>© Accounting Helper for students of Mr Gary Chan and TT</p>
       </footer>
     </div>
   );
